@@ -11,7 +11,7 @@ const about = {
   description:
     'I am a sophomore pursuing Computer Science at IIIT Delhi. With a keen interest in business, technology, and science, I am driven to contribute meaningfully to these domains. Alongside my academic pursuits, I possess strong public speaking and oratory skills, coupled with a knack for critical problem-solving. These attributes empower me to work towards my aspirations and make a valuable impact.',
   social: {
-    linkedin: 'https://linkedin.com',
+    linkedin: 'https://www.linkedin.com/in/muthuraj-vairamuthu-748600258/',
     github: 'https://github.com',
   },
 }
