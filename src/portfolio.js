@@ -1,16 +1,15 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://Muthuraj-Vairamuthu.github.io/Portfolio-website',
+  title: 'MV.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Muthuraj Vairamuthu',
+  role: 'CSE Sophomore at IIIT Delhi',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'I am a sophomore pursuing Computer Science at IIIT Delhi. With a keen interest in business, technology, and science, I am driven to contribute meaningfully to these domains. Alongside my academic pursuits, I possess strong public speaking and oratory skills, coupled with a knack for critical problem-solving. These attributes empower me to work towards my aspirations and make a valuable impact.',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
@@ -21,51 +20,34 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Assembler-Simulator',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'This multi-faceted project involves the design, implementation, and enhancement of an assembler-simulator system capable of processing assembly language programs and handling simple floating-point computations. ',
+    stack: ['Python', 'Git'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
-  {
-    name: 'Project 2',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+  
 ]
 
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'PYTHON',
+  'SQL',
+  'C',
+  'JAVA',
+  'TABLEAU',
+  'MIROBOARD',
+  'SCRATCH',
+  'ALICE',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'TKINTER',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'muthuraj.vairamuthu@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
